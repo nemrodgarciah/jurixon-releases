@@ -1,19 +1,19 @@
 {
-  "version": "0.2.2",
-  "notes": "Session Persistence & RBAC Fix - Windows keychain persistence, token refresh, CORS fixes, and RBAC user data filtering",
-  "pub_date": "2026-01-03T06:09:45Z",
+  "version": "0.2.3",
+  "notes": "Signed Update System - Full auto-update support with signature verification",
+  "pub_date": "2026-01-03T08:04:59Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.2-jurixon/Jurixon_0.2.2_aarch64.dmg"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0s1RDU0TFdEcFNWRTMwNDFZREpNZGZaQzNjRVNFdHJoaWtzcUExRlFObjFrSjU5cHFoYjNhdnhqRUhubVF6WU4rZlR1TW9qZ0QrQTE4L3NwRGhPNndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDI3NDk2CWZpbGU6SnVyaXhvbi5hcHAudGFyLmd6CkNuQUYyNndLUWJTNjEyL2R5ZmZIYnBwck0vMU8wZXo5ZWU3UmpsYW12dkVQei9qbmN3NkEyUzFnby9vdVZYa3RzbWxFd1hNempnOWJGL25tcmIrK0NnPT0K",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.3-jurixon/Jurixon_0.2.3_aarch64.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.2-jurixon/Jurixon_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a09PTVVhV0VCSmZ5TU1BZkE1K3ZLWDNZaFZDaDh3MHJRVlNMNUNWcGcwb3JVd01maDc3dlo4WjZmRU5pWFJ6OEJsVzFoMXVWZGg2MThaVFh6VkQ1VlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDI3NzY3CWZpbGU6SnVyaXhvbl8wLjIuM194NjQtc2V0dXAuZXhlCjNoZUxKNGprL0xnRXV4SjE3NndKeTZTSUtIMkxTWlFxSE1iU25RZHhMeHhLU1BwKy9iazk0ajZ6ZVZtb09OZTBoV0pEWjdJYzJqQ1FMbnM3b1lRN0RnPT0K",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.3-jurixon/Jurixon_0.2.3_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
