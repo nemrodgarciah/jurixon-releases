@@ -1,15 +1,23 @@
 {
-  "version": "0.2.5",
-  "notes": "Update system test release. Signed with Developer ID (macOS).",
-  "pub_date": "2026-01-03T11:30:00Z",
+  "version": "0.2.6",
+  "notes": "Bug fixes and improvements",
+  "pub_date": "2026-01-03T13:17:46Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a00zaXFHL0VTZ2VsYnZYK29Rdk8rc1duMW1RZVBWc0kxcXJRYVVaY0ViTkZpamJmaW5nNkkyS3RXbEtvSFNPSFM5RnlFTXNyRjM5cmR0STZZV09BRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM5NDg2CWZpbGU6SnVyaXhvbi5hcHAudGFyLmd6CndlVytmeU9NWVRnQnQvTUZCTEFmTE5wRUdNSHNvejhXVzNvcE5sZTY3MmNhZHlGemo3clpYd0FsTllRUXYwNFh1Sk1jeDF2WldZY0xGL3NkTG91R0FnPT0K",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.5-jurixon/Jurixon.app.tar.gz"
+      "signature": "",
+      "url": ""
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a05GUW9aMTJmc2RJNzZ4ejFncDhrSFdKNTVhWGR6ZVcvNjU0c2JKYk9vZjg4MFhqdStlUURra2FHbDhsN2xDSkNvTVB6OEtIaWtIYmVqUmczQ2Zja2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM5ODY1CWZpbGU6SnVyaXhvbl8wLjIuNV94NjQtc2V0dXAubnNpcy56aXAKU1ptL2c1L2NISUZJeElNazRQWDJ1NElpTmFIT3djSDMza1JXcnF5a2hzN254ajBXOEVMMXpIYWxyZVJZRmxqNzNxQ21GTG05bnJsUFBzYVdOYzBMQmc9PQo=",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.5-jurixon/Jurixon_0.2.5_x64-setup.nsis.zip"
+      "signature": "",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.6-jurixon/Jurixon_0.2.6_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
     }
   }
 }
