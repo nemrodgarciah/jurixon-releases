@@ -1,0 +1,23 @@
+{
+  "version": "0.2.2",
+  "notes": "Session Persistence & RBAC Fix - Windows keychain persistence, token refresh, CORS fixes, and RBAC user data filtering",
+  "pub_date": "2026-01-03T06:09:45Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.2-jurixon/Jurixon_0.2.2_aarch64.dmg"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": ""
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.2-jurixon/Jurixon_0.2.2_x64-setup.exe"
+    },
+    "linux-x86_64": {
+      "signature": "",
+      "url": ""
+    }
+  }
+}
