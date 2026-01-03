@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": ""
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.6-jurixon/Jurixon_0.2.6_aarch64.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
