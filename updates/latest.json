@@ -1,15 +1,15 @@
 {
-  "version": "0.2.4",
-  "notes": "macOS app signed with Developer ID. Improved update system for both platforms.",
-  "pub_date": "2026-01-03T10:00:00Z",
+  "version": "0.2.5",
+  "notes": "Update system test release. Signed with Developer ID (macOS).",
+  "pub_date": "2026-01-03T11:30:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0ZiMkwvTmRDYjl1Q3VYeVJhRk84R2Z0R1BCRHQ2eTVnQ1VQQ2RhZVR3ejlpOG9vUkFUK1RES2RESEVGdTRLcVN0WkY5TzY4cytHOW5Dd1I4dThtT1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM2NzUxCWZpbGU6SnVyaXhvbi5hcHAudGFyLmd6CkVqR1hlVVpKMnRNZGNvNWVDNnJ5WS9RWE1XWEUvOUlNSjNxdVpGcGYvSHhrNkhwNUUyU1ZkUmtCS2pFT2QzMGRaL3VUMElZM1IwV29ta1dhK2RYR0JnPT0K",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.4-jurixon/Jurixon.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a00zaXFHL0VTZ2VsYnZYK29Rdk8rc1duMW1RZVBWc0kxcXJRYVVaY0ViTkZpamJmaW5nNkkyS3RXbEtvSFNPSFM5RnlFTXNyRjM5cmR0STZZV09BRXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM5NDg2CWZpbGU6SnVyaXhvbi5hcHAudGFyLmd6CndlVytmeU9NWVRnQnQvTUZCTEFmTE5wRUdNSHNvejhXVzNvcE5sZTY3MmNhZHlGemo3clpYd0FsTllRUXYwNFh1Sk1jeDF2WldZY0xGL3NkTG91R0FnPT0K",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.5-jurixon/Jurixon.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0lVUHp2QzdadUdKY1Y5VU4vd1Rtd1h3dEpUVVZGRG9GRGVOVXBlVDZFb0dqYktVcXJLS0hYcHgzSUI3WGRCWkQ0Y0piVk5YQzUzRkh0cEZDUkxzcUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM3NzE0CWZpbGU6SnVyaXhvbl8wLjIuNF94NjQtc2V0dXAubnNpcy56aXAKQ3J3NXVxMGVCSnFoYkF5UXRTS1VYaFczQ1NlWm1GbjdTNVNKQ1ZKaTM5OSs2K3lyR3VGOXBtYUxiUmF2WjFFcjVoMUVOMFM3Kys5YThJMkNGUHJvQWc9PQo=",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.4-jurixon/Jurixon_0.2.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a05GUW9aMTJmc2RJNzZ4ejFncDhrSFdKNTVhWGR6ZVcvNjU0c2JKYk9vZjg4MFhqdStlUURra2FHbDhsN2xDSkNvTVB6OEtIaWtIYmVqUmczQ2Zja2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3NDM5ODY1CWZpbGU6SnVyaXhvbl8wLjIuNV94NjQtc2V0dXAubnNpcy56aXAKU1ptL2c1L2NISUZJeElNazRQWDJ1NElpTmFIT3djSDMza1JXcnF5a2hzN254ajBXOEVMMXpIYWxyZVJZRmxqNzNxQ21GTG05bnJsUFBzYVdOYzBMQmc9PQo=",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.5-jurixon/Jurixon_0.2.5_x64-setup.nsis.zip"
     }
   }
 }
