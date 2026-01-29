@@ -1,19 +1,19 @@
 {
-  "version": "0.2.6",
-  "notes": "Bug fixes and improvements",
-  "pub_date": "2026-01-03T13:17:46Z",
+  "version": "0.6.2",
+  "notes": "Fixed sync errors on Windows upgrades, batch document processing improvements",
+  "pub_date": "2026-01-29T17:52:28Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.6-jurixon/Jurixon_0.2.6_aarch64.dmg"
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.6.2-jurixon/Jurixon_0.6.2_aarch64.dmg"
     },
     "darwin-x86_64": {
       "signature": "",
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.2.6-jurixon/Jurixon_0.2.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0ppS0U3UnBlcC9XZW40WG85UXp0cUw4SDZUY0t1N0p4MHhiNk9XMkpVM1duTkxvZm9Fa3J6dGJQbTJBK09uNFZmaDI5Mm9GSG1yVTZ6SDc2c1pIZUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzA3OTgzCWZpbGU6SnVyaXhvbl8wLjYuMl94NjQtc2V0dXAuZXhlCjFqbHZpTitrQXRmL05hdWtwbGMvZHBzMUZpTWF6TmhwSDdSVUk1QmpLUTRkaEk2L0dmZTlJSkJLb1NvdHJySG9QOGJvd1FxU0NlL2liWmUybDVnb0R3PT0K",
+      "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.6.2-jurixon/Jurixon_0.6.2_x64-setup.exe"
     },
     "linux-x86_64": {
       "signature": "",
