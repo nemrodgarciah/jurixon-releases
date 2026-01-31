@@ -1,7 +1,7 @@
 {
   "version": "0.6.2",
-  "notes": "Fixed sync errors on Windows upgrades, batch document processing improvements",
-  "pub_date": "2026-01-29T17:52:28Z",
+  "notes": "License reset & management system, meta_data parsing fixes, clause categorization improvements",
+  "pub_date": "2026-01-31T10:30:00Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
@@ -12,7 +12,7 @@
       "url": ""
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0ppS0U3UnBlcC9XZW40WG85UXp0cUw4SDZUY0t1N0p4MHhiNk9XMkpVM1duTkxvZm9Fa3J6dGJQbTJBK09uNFZmaDI5Mm9GSG1yVTZ6SDc2c1pIZUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NzA3OTgzCWZpbGU6SnVyaXhvbl8wLjYuMl94NjQtc2V0dXAuZXhlCjFqbHZpTitrQXRmL05hdWtwbGMvZHBzMUZpTWF6TmhwSDdSVUk1QmpLUTRkaEk2L0dmZTlJSkJLb1NvdHJySG9QOGJvd1FxU0NlL2liWmUybDVnb0R3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRaHR6VnRad1U5a0plU1JlcUdqbWRqeWUwY3RzUWd0eFVxdEhrY3drNlFJbFBtYjZ4V0V3M3JuY1MyYWpPUVc3VmRWeWx5ejA4S0oxQTNhQXA1VFZ4bzhPcGJDQkpHSkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5ODU1MDgyCWZpbGU6SnVyaXhvbl8wLjYuMl94NjQtc2V0dXAuZXhlClBnb0syK0pkY2FMUFhFSE1sSGNrWVJkYTh4ZlU4VTBVMGxLazdXQWpyUm4xbDBYR0t1cVQ2OWZxb0IwQ1lPVUZQcjNHL0lMakJHRUgrV1FDaUY5Y0FRPT0K",
       "url": "https://github.com/nemrodgarciah/jurixon-releases/releases/download/v0.6.2-jurixon/Jurixon_0.6.2_x64-setup.exe"
     },
     "linux-x86_64": {
